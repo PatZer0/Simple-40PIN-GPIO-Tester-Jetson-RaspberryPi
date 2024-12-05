@@ -8,3 +8,4 @@
 
 # 效果展示
 ![VID_20241205_195150 -small-original](https://github.com/user-attachments/assets/b1745d9e-f0d1-4833-9946-2440cefa9480)
+![image](https://github.com/user-attachments/assets/a94b2fb8-acd6-4691-b60e-ef13ffe15266)
