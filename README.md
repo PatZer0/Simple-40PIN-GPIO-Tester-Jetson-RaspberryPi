@@ -4,7 +4,7 @@
 
 # 硬件需求
 最简单的方法，当然是使用万用表检测电压，便能够确定GPIO的状态。
-此外，你还可以选择按照这个开源项目制作一个方便的GPIO测试器：[https://oshwhub.com/patzer0/40pin-gpio-tester](https://oshwhub.com/patzer0/generic-40pingpio-tester-jetson-)
+此外，你还可以选择按照这个开源项目制作一个方便的GPIO测试器：[立创硬件开源平台](https://oshwhub.com/patzer0/generic-40pingpio-tester-jetson-)
 
 # 效果展示
 ![VID_20241205_195150 -small-original](https://github.com/user-attachments/assets/b1745d9e-f0d1-4833-9946-2440cefa9480)
